@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "downloadUrl": "https://github.com/lturki9x/memorva/releases/download/v2.6/Memorva-2.6-Portable.zip",
+  "version": "2.7.0",
+  "downloadUrl": "https://github.com/lturki9x/memorva/releases/download/v2.7/Memorva-2.7-Portable.zip",
   "installerUrl": "https://lturki9x.github.io/memorva/web-installer.html",
-  "releaseNotes": "إصدار 2.6.0 - تحديث جديد\n\n- تحسينات في الأداء\n- إصلاحات للأخطاء\n- تحسينات في واجهة المستخدم",
+  "releaseNotes": "إصدار 2.7.0 - تحديث جديد\n\n- إصلاح مشكلة فتح رابط التحديث\n- تحسينات على نظام التحديثات",
   "releaseDate": "2024-01-17",
   "size": 108700000,
   "forceUpdate": false
